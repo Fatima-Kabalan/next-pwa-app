@@ -43,9 +43,9 @@ The ability to download the app on several devices by PWA</li>
 </br>
 <h1>Usage</h1>
 <p>To use the PWA, follow these steps:
-1.Open the app in your browser.
-2.Allow notifications when prompted.
-3.Interact with the app to trigger notifications.</p>
+<p>1.Open the app in your browser.</p>
+<p>2.Allow notifications when prompted.</p>
+<p>3.Interact with the app to trigger notifications.</p>
 <!-- 
 <h1>Screenshot</h1>
 <p>These are some screenshots of the app</p>
