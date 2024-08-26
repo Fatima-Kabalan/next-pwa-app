@@ -5,6 +5,7 @@ export async function POST(request: Request) {
   try {
     const data = await request.json();
    
+    console.log(JSON.stringify(data));
     const { subscription } = data;
     if (!subscription) {
       return NextResponse.json({ message: "Subscription data missing." }, { status: 400 });
